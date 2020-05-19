@@ -1,6 +1,6 @@
 # Monte_Carlo
 
-Various simple and relatively straightforward experiments with Monte Carlo and Markov chain Monte Carlo methods. Some highlights:
+Various simple and straightforward experiments with the Metropolis-Hastings algorithm and ordinary Monte Carlo methods. Some highlights:
 
 * The performance of Metropolis-Hastings algorithm is ![compared to the inverse transform method](MH-sampler_exponential.ipynb) and to ![SciPy's library implementation of the multivariate normal distribution](Metropolis-Hastings_multinormal.ipynb).
 
